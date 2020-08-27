@@ -1,6 +1,6 @@
 # socialhack_app
 
-A new Flutter project.
+Flutter application made for socialhack hackathon
 
 ## Getting Started
 
